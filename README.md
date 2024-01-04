@@ -26,4 +26,4 @@ Grupal
 * Visual Studio Code
 
 ## Deploy: 
-* 
+* https://greiskels.github.io/JuegoDetective/
