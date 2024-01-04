@@ -9,11 +9,7 @@ Juego para investigar, descifrar las preguntas para poder avanzar y obtener un t
 </div>
 
 ## Juego en grupo
-<<<<<<< HEAD
-
-=======
 link final: https://github.com/signados/escape
->>>>>>> 2bea4d8fd8245f5bccf547424a5757fec85fafea
 
 ## Tecnologías utilizadas
 
