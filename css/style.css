@@ -46,7 +46,7 @@ label {
 #contenedor {
   height: 1000px;
   width: 100%;
-  background-image: url("img/perro.jpg");
+  background-image: url("/img/perro.jpg");
   background-size: cover;
   color: aliceblue;
   z-index: 100px;
