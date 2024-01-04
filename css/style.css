@@ -135,15 +135,6 @@ input {
   background-color: black;
 }
 
-/*.boton-menu.active {
-  background-color: var(--clr-white);
-  color: var(--clr-main);
-  border-top-left-radius: 1rem;
-  border-bottom-left-radius: 1rem;
-  position: relative;
-}*/
-
-
 @keyframes animado {
   0% {
     background-position: 0% 50%;
