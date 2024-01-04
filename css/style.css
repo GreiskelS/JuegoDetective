@@ -46,7 +46,7 @@ label {
 #contenedor {
   height: 1000px;
   width: 100%;
-  background-image: url("/img/perro.jpg");
+  background-image: url("https://cdn.glitch.global/e161980a-45ab-44ce-bc00-987e99c595c5/perroia.png?v=1704381884102");
   background-size: cover;
   color: aliceblue;
   z-index: 100px;
